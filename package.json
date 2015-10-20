@@ -1,6 +1,6 @@
 {
   "name": "create-if-not-exist",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Synchronous Node.JS function to simply create a file if it does not exist.",
   "main": "createIfNotExist.js",
   "scripts": {
