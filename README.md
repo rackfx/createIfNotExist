@@ -14,6 +14,11 @@ var createIfNotExist = require("create-if-not-exist");
 createIfNotExist('file.txt','blablablabla');
 ```
 
+### Params 
+- *filename* - The file name to create if it doesn't exist.
+- *body* - The contents of the file that's being created.
+
+
 ## API
 
 createIfNotExist(filename, data)
